@@ -10,7 +10,7 @@ A Twitter data sceince project
 
 ### Files included 
 
-* ads_data_science_project.ipynb, **a jupyter notebook** 
-* ads_data_science_project.html, **a HTML version of the notebook**
+* ads_data_science_project.ipynb (a jupyter notebook)
+* ads_data_science_project.html, (a HTML version of the notebook)
 * requirments.txt, packages needed to be installed 
  
