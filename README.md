@@ -1,6 +1,6 @@
 # Ads Data Science Project  
 
-A data sceince project around data analysis & probability  
+A @twitter data sceince project around data analysis & probability  
 
 ### Getting started
 
