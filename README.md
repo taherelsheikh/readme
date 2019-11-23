@@ -1,6 +1,6 @@
 # Ads Data Science Project  
 
-An application and database solution that scrapes book data from ten websites. The app’s output is a final merged dataset from all the ten sources that is then pushed to a MySQL database.
+A data sceince project which includes proabrblity, 
 
 ### Getting started
 
