@@ -4,7 +4,8 @@ An application and database solution that scrapes book data from ten websites. T
 
 ### Getting started
 
-* Download and install Jupyter notebook and make sure you downloaded all the required packages **requirements.txt** file. Only if your intrested in running the notebook. 
+* Download and install Jupyter notebook
+* Make sure you downloaded all the required packages **requirements.txt** file
 * You can also just use the HTML file to see an non-interactive version of the project 
 
 ### Files included 
