@@ -1,12 +1,12 @@
 # Ads Data Science Project  
 
-A Twitter data sceince project 
+A Twitter data science project 
 
 ### Getting started
 
 * Download and install Jupyter notebook
-* Make sure you downloaded all the required packages **requirements.txt** file
-* You can also just use the HTML file to see a non-interactive version of the project 
+* Make sure you downloaded all the required packages located in the **requirements.txt** file
+* Use an HTML file to see a non-interactive version of the project 
 
 ### Files included 
 
